@@ -1,0 +1,135 @@
+{
+    "Servicios Moviles": [
+        {
+            "-": "----------------------------------",
+            "Nombre": "Prepago",
+            "C_ usuarios": 8,
+            "Descripcion": "Claro prepago: paga antes de usar. Recargas saldo para llamar. Sin saldo, no puedes llamar.",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Postpago",
+            "C_ usuarios": 2,
+            "Descripcion": "paga despues de usar. Factura segun el uso. Sin uso, no puedes llamar.",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Roaming Internacional",
+            "C_ usuarios": 3,
+            "Descripcion": "servicio para usuarios Claro conectarse a Internet en todo el mundo.",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Larga Distancia Internacional movil",
+            "C_ usuarios": 1,
+            "Descripcion": "servicio para que usuarios Claro hagan llamadas en todo el mundo.",
+            "--": "----------------------------------"
+        }
+    ],
+    "Servicios C.Hogar": [
+        {
+            "-": "----------------------------------",
+            "Nombre": "Claro tv+",
+            "C_ usuarios": 7,
+            "Descripcion": "permite ver contenido de canales en hasta dos puntos de acceso simultaneamente.",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Planes de internet",
+            "C_ usuarios": 9,
+            "Descripcion": "velocidad sim\u00c3\u00a9trica, mejorando la calidad de tu servicio de TV y mucho m\u00c3\u00a1s.",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Planes de television",
+            "C_ usuarios": 3,
+            "Descripcion": "Disfruta de television digital con programacion en canales HD y Claro video.",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Plan de hogar de Larga Distancia Internacional",
+            "C_ usuarios": 4,
+            "Descripcion": "Disfruta de tu plan de hogar con 30 minutos de llamadas internacionales a n\u00c3\u00bameros fijos en USA Canada Venezuela Espana y m\u00c3\u00a1s pa\u00c3\u00adses.",
+            "--": "----------------------------------"
+        }
+    ],
+    "Servicios de Innovacion": [
+        {
+            "-": "//",
+            "Nombre": "Hogar conectado",
+            "C_ usuarios": 10,
+            "Descripcion": "Como cliente Todo Claro u Hogar, puedes obtener un plan postpago con el servicio de Multiasistencia a un precio especial. Esto te brinda asistencia para tu hogar, salud o cuidado de mascotas, haci\u00c3\u00a9ndote la vida m\u00c3\u00a1s simple y segura.",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Multiasistencia",
+            "C_ usuarios": 6,
+            "Descripcion": "Como cliente Todo Claro u Hogar, puedes obtener un plan postpago con el servicio de Multiasistencia a un precio especial. Esto te brinda asistencia para tu hogar, salud o cuidado de mascotas, haci\u00c3\u00a9ndote la vida m\u00c3\u00a1s f\u00c3\u00a1cil y segura."
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Mascotas",
+            "C_ usuarios": 3,
+            "Descripcion": "Tecnolog\u00c3\u00ada y Accesorios para mascotas en Claro sin salir de casa: \u00c2\u00a1C\u00c3\u00a1maras de seguridad, Comedores inteligentes y mucho m\u00c3\u00a1s!",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Vehiculo conectado",
+            "C_ usuarios": 4,
+            "Descripcion": "Es la soluci\u00c3\u00b3n enfocada al seguimiento y control de tu veh\u00c3\u00adculo a trav\u00c3\u00a9s de una aplicaci\u00c3\u00b3n de celular.",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "eSIM",
+            "C_ usuarios": 7,
+            "Descripcion": "Es la versi\u00c3\u00b3n digital de las cl\u00c3\u00a1sicas tarjetas SIM funciona con un microchip que est\u00c3\u00a1 instalado en los equipos m\u00c3\u00b3viles. La eSIM permite realizar las mismas actividades que la tarjeta SIM tradicional. Es decir conectar a internet realizar o recibir llamadas y SMS",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Claro Sync",
+            "C_ usuarios": 1,
+            "Descripcion": "Claro Sync, es la funcionalidad que permite utilizar el mismo n\u00c3\u00bamero m\u00c3\u00b3vil de Claro en el smartwatch, para compartir, disfrutar y utilizar los mismos servicios de voz e internet contratados en la l\u00c3\u00adnea m\u00c3\u00b3vil del cliente.",
+            "--": "----------------------------------"
+        }
+    ],
+    "Servicios de Entretenimiento": [
+        {
+            "-": "----------------------------------",
+            "Nombre": "Claro Club",
+            "C_ usuarios": 4,
+            "Descripcion": "Es un programa para entrega de beneficios a clientes activos de Claro hogar, postpago y prepago y empresas y negocios; Con Claro club, puedes disfrutar de descuentos y beneficios en comercios aliados y eventos a nivel nacional de forma presencial y digital.",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Claro Gaming",
+            "C_ usuarios": 3,
+            "Descripcion": "PAQUETES GAMING es un servicio de paquetes que permiten al USUARIO, a trav\u00c3\u00a9s de un valor, tener acceso a un Portal M\u00c3\u00b3vil HTML5 (Portal Claro Club Apps) donde se encuentran aplicaciones (juegos) para M\u00c3\u00b3vil Android las cuales se pueden descargar y usar sin costo adicional para jugar online en cualquier Smartphone",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Claro Musica",
+            "C_ usuarios": 7,
+            "Descripcion": "Claro m\u00c3\u00basica es un servicio de suscripci\u00c3\u00b3n y descarga de m\u00c3\u00basica que te ofrece acceso a los mejores artistas, playlist y nuevos lanzamientos donde quieras y cuando quieras. Puedes escuchar tu m\u00c3\u00basica favorita sin consumir tus megas.",
+            "--": "----------------------------------"
+        },
+        {
+            "-": "----------------------------------",
+            "Nombre": "Claro Video",
+            "C_ usuarios": 2,
+            "Descripcion": "Es la plataforma de servicios de streaming que tienen los clientes hogar y postpago Claro, con la que pueden ver pel\u00c3\u00adculas ,series, documentales y mucho m\u00c3\u00a1s desde donde sea.",
+            "--": "----------------------------------"
+        }
+    ]
+}

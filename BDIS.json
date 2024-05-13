@@ -1,0 +1,32 @@
+{
+    "Servicio al cliente": [
+        {
+            "Clientes": [
+                {
+                    "Cliente": "Juan Carlos Torres"
+                }
+            ],
+            "C_ interaciones": 1
+        }
+    ],
+    "Reclamaciones": [
+        {
+            "Clientes": [
+                {
+                    "Cliente": "Marcos Felipe Pereira"
+                }
+            ],
+            "C_ interaciones": 1
+        }
+    ],
+    "Sugerencias": [
+        {
+            "Clientes": [
+                {
+                    "Cliente": "Francisco Alvarez Ascano"
+                }
+            ],
+            "C_ interaciones": 1
+        }
+    ]
+}
