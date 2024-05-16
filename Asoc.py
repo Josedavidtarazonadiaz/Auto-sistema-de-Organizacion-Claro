@@ -467,7 +467,7 @@ def registrar_error(tipo_error):
         file.write(f"Error Type: {tipo_error} {fecha_actual}\n")
 
 def cargar_datos(archivo):
-    with open(f"Asoc/{archivo}", "r") as file:
+    with open(archivo, "r") as file:
         datos = json.load(file)
     return datos
 
@@ -509,7 +509,7 @@ def Log_in_user(datos, datos_1):
     return None
 
 def Mostrar_datos(datos):
-    with open(f"Asoc/{datos}","r") as file:
+    with open(datos,"r") as file:
         datos = json.readlines(file)
     return datos
 
@@ -594,10 +594,11 @@ def Men_sec():
     print("2. Descripcion")
 
 def guardar_datos(datos, archivo):
-    with open(f"Asoc/{archivo}", "w") as file:
+    with open(archivo", "w") as file:
         json.dump(datos, file, indent=4)
 
-datos = {key: cargar_datos(value) for key, value in BASES_DE_DATOS.items()}
+datos = {key: cargar_datos(value) for key, 
+         value in BASES_DE_DATOS.items()}
 
 while True:
     Menu_prin()
