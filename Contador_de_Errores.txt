@@ -1,4 +1,0 @@
-
-Error Type: ValueError 13/05/2024 15:12:40
-Error Type: ValueError 13/05/2024 17:09:07
-Error Type: ValueError 13/05/2024 17:09:28
