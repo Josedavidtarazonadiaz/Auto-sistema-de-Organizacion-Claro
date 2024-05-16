@@ -1,0 +1,44 @@
+{
+    "H_usuarios": [
+        {
+            "Nommbre completo": "Juan Carlos Alvarez",
+            "servicios comprados": [
+                {
+                    "Servicio": "Fibra Optica"
+                },
+                {
+                    "Servicio": "Claro Gamimng"
+                }
+            ],
+            "Celulares": [
+                {
+                    "Celular ": "Iphone 11"
+                },
+                {
+                    "Celular ": "Samsung Galaxy A55"
+                }
+            ],
+            "C_ Interaciones": 2
+        },
+        {
+            "Nommbre completo": "Camilo Fernando Chavez",
+            "servicios comprados": [
+                {
+                    "Serivcio": "Post pago"
+                },
+                {
+                    "Serivcio": "Television"
+                }
+            ],
+            "Celulares": [
+                {
+                    "Celular": "Moto g04"
+                },
+                {
+                    "Celular ": "Redmi Note 11"
+                }
+            ],
+            "C_ Interaciones": 4
+        }
+    ]
+}
