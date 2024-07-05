@@ -3,14 +3,13 @@
 Este sistema es capaz de organizar los clientes, crear promociones, crear y conjugar el pago de un celular ademas de la creación de servicios y agregar usuarios
 
 ## Tabla de contenido
-```markdown
+
 | Indice | Nombre | 
 |--|--|
 | 1 | Instalacion | 
 | 2 | Heramientas utilizadas |
 | 3 | Estado del proyecto |
-```
-
+| 4 | Colaboracion |
 
 ## Instalacion
 1. Se Debe descargar el zip del programa
